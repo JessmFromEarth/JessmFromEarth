@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JessmFromEarth
 - 👀 I’m interested in Helium (HNT), Crypto, Grants
-- 🌱 I’m currently learning Crypto, IOT, Plants, 
-- 💞️ I’m looking to collaborate on Helium Grant Ideas
+- 🌱 I’m currently learning Blockchain Technologies, Crypto, IOT, Plants, Archeology  
+- 💞️ I’m looking to collaborate on Helium Grant Ideas, I would love to hear your grant idea
 - 📫 How to reach me Jess@dewi.org
 
 <!---
